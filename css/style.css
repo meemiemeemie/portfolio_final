@@ -1,0 +1,53 @@
+/* {
+    border: 1px solid red !important;
+}
+*/
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+h1 {
+	font-family: 'Delius', cursive;
+	text-align: right;
+	color: #474747;
+	font-size: 60px;
+}
+
+h2 {
+	font-family: 'Delius', cursive;
+	text-align: left;
+	text-indent: 12px;
+	color: #854775;
+}
+
+h3 {
+	font-family: 'Delius', cursive;
+	text-align: center;
+	color: #474747;
+}
+
+p {
+	font-family: 'Delius', cursive;
+	text-align: center;
+	color: #854775;
+}
+
+.top-row {
+	border-bottom-style: solid;
+	border-bottom-color: #8F006B;
+	border-bottom-width:5px; 
+	padding-top: 10px; 
+	padding-bottom: 10px;
+}
+
+.splash-row {
+	padding-top: 20px; 
+	padding-bottom: 10px;
+}
+
+button {
+	text-align: center;
+}
